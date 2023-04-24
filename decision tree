@@ -1,0 +1,19 @@
+Decision trees - 
+	Supervised learning 
+	Tree based model training algorithm 
+	can be applied to both linear regression and classification.
+	results through decision tree can be achieved by continuous decision making at each stage to move forward in the problem solving path.
+	ex - food coupon providing system according to their privilages and rank in a mess.
+	
+Random forest - 
+	multiple decision trees are together create random forest that result.
+	each node in the calculate the output. The random forest then combines the output of individual decision trees to generate final output.
+	
+	This algorithm can be applied only to the binary classification.
+	
+	difference between decision tree and random forest
+	Decision tree - Easy to interpret and make for straightforward visualizations. The internal workings are capable of being observed and thus make it possible to reproduce work. Can handle both numerical and categorical data. Perform well on large datasets are very fast.
+
+	Random forest - It is a ensemble learning method, which means it uses a combination of multiple models to make predictions. In contrast, decision tree is a single model that makes predictions based on a series of if-then rules. Recall that ensemble learning is a machine learning technique where multiple models are trained to solve a problem. The individual models are then combined to form a final model that is more accurate than any of the individual models. Ensemble learning is often used in situations where the individual models are not very accurate, but the ensemble model is able to achieve high accuracy by combining the predictions of the individual models.
+
+
